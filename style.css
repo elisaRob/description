@@ -193,7 +193,8 @@ body{
     
 }
 
-.container nav ul li:nth-child(1):hover{
+.container nav ul li:nth-child(1):hover,
+.container nav ul li:nth-child(1){
     border-radius:0 0 0 20px;
 }
 
